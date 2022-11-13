@@ -1,0 +1,8 @@
+Unit test are done locally and it executes the code piece by piece
+and check for errors - it is a sort of test
+- Local hardhat 
+- forked hardhat 
+
+Staging Test - They can be done on a testnet. They are kind of a final
+state done on a testnet. To make sure it also run on real network. 
+can be used on a real testnet. This is the last step of development
